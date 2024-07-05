@@ -19,8 +19,8 @@ The project is available at [GitHub Repository](https://github.com/EpokaDevs/SMD
 - Business Process Model and Notation (BPMN) diagrams for business process representation.
 - Entity-Relationship Diagrams (ERD) for data modeling.
 - Data Flow Diagrams (DFD) to represent data processing.
-- Use case diagrams for system functionalities.
-- Class diagrams for object-oriented design.
+- Use case diagram for system functionalities.
+- Class diagram for object-oriented design.
 - Interaction overview diagrams for a holistic view of interactions.
 
 ## 5. Design Patterns Implemented in the Class Diagram for Better Software Modeling
