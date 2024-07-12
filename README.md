@@ -1,7 +1,7 @@
 # Airline Software Design
 
 In this university project, where I was the leader, we had to design an airline ticket booking software.
-The project is available at [GitHub Repository](https://github.com/EpokaDevs/SMD-project.git).
+The project is available at [GitHub Repository](https://github.com/EpokaDevs/SMD-project.git). Below is a summary of the diagrams:
 
 ## 1. Stakeholder and Requirement Specification
 - Identifies all stakeholders involved in the project.
